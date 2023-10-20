@@ -1,0 +1,6 @@
+{
+  "workbench.colorTheme": "Gruvbox Dark Hard",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+  }
+}
