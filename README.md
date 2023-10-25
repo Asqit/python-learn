@@ -1,4 +1,4 @@
-# Python learning
+# Python learning 🐍
 
-repository for notes when learning `Python` the programming language.
+Notes taken while learning the `Python` programming language. 
 
