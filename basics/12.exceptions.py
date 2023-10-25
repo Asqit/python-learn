@@ -17,3 +17,11 @@ else:
     print(result)
 finally:
     print("Goodbye! ")
+
+
+class CustomException(Exception):
+    pass
+
+
+def throw_exception() -> None:
+    raise CustomException("EEEEEE")
